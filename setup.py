@@ -9,7 +9,7 @@ setup(
   author_email = 'vmouchakis@gmail.com',
   url = 'https://github.com/vmouchakis/string-metrics',
   install_requires=[],
-  license='Apache License'
+  license='Apache License',
   classifiers=[
     'Intended Audience :: Developers',
     'Topic :: Software Development :: Build Tools',
@@ -22,6 +22,6 @@ setup(
     'Programming Language :: Python :: 3.9',
     'Programming Language :: Python :: 3.10',
     'Programming Language :: Python :: 3.11',
-    'Programming Language :: Python :: 3.12'
+    'Programming Language :: Python :: 3.12',
   ],
 )
